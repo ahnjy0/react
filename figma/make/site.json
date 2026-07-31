@@ -1,0 +1,10 @@
+{
+  "description": "This web application allows users to create and manage React code snippets effortlessly, streamlining the development process for programmers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
