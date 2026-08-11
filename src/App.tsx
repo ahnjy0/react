@@ -1,8 +1,8 @@
-import imgImage2 from "../imports/logo_adbance_01.png";
-import imgImage3 from "../imports/sample_book_01.jpg";
-import imgImage4 from "../imports/sample_book_02.jpg";
-import img1 from "../imports/sample_book_03.jpg";
-import imgImage5 from "../imports/sample_book_04.jpg";
+import imgImage2 from "../imports/App/logo_adbance_01.png";
+import imgImage3 from "../imports/App/sample_book_01.jpg";
+import imgImage4 from "../imports/App/sample_book_02.jpg";
+import img1 from "../imports/App/sample_book_03.jpg";
+import imgImage5 from "../imports/App/sample_book_04.jpg";
 
 interface InfoBoxProps {
   color: string;
