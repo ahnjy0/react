@@ -1,8 +1,8 @@
-import imgImage2 from "../imports/7e04f6cacba63838300ee17f69f53d308df54e4c.png";
-import imgImage3 from "../imports/33e6276d3c2f0896744b3ff65ebcb42f389b08d2.png";
-import imgImage4 from "../imports/7154cb50eaa76a3465195a527b68559f9bd43fe5.png";
-import img1 from "../imports/b375c7e8aad6e673b0118e5212082646188a89f3.png";
-import imgImage5 from "../imports/d66e1de1e3cc3b61b3d5b03e73e5a465fab80264.png";
+import imgImage2 from "../imports/logo_adbance_01.png";
+import imgImage3 from "../imports/sample_book_01.jpg";
+import imgImage4 from "../imports/sample_book_02.jpg";
+import img1 from "../imports/sample_book_03.jpg";
+import imgImage5 from "../imports/sample_book_04.jpg";
 
 interface InfoBoxProps {
   color: string;
